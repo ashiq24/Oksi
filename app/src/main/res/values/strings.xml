@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oksi</string>
+    <string name="take_image_text">clicked on Take Image</string>
+    <string name="vision_subscription_key">249134ea8d754b2a90dcbe84768fbc5e</string>
+    <string name="vision_url">https://westcentralus.api.cognitive.microsoft.com/vision/v1.0</string>
+    <string name="face_subscription_key">4f773d3f5d384e6a8b288410288f2d84</string>
+    <string name="face_url">https://westcentralus.api.cognitive.microsoft.com/face/v1.0</string>
+</resources>
